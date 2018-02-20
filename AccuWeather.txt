@@ -1,0 +1,13 @@
+Accuracy of the Regression model1 is 57.8125
+
+MAE of the Regression model1 is 0.6875
+
+Ranked Correlation coefficient of the Regression model1 is 0.399370616146
+
+Accuracy of the Regression model2 is 51.5625
+
+MAE of the Regression model2 is 0.71875
+
+Ranked Correlation coefficient of the Regression model2 is 0.33813651927
+
+Percent of inconsistent reviews is 8.763693270735525
